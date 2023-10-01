@@ -1,0 +1,21 @@
+.image-container {
+    height: 200px; 
+    margin-top: 2%;
+    margin-left: 5%;
+}
+
+.image-container img {
+    margin-top: 5%;
+    max-height: 70%; 
+    width: auto; 
+}
+
+#myCarousel2 {
+    width: 90%;
+ 
+}
+#myCarousel2 .carousel-inner .item img {
+    width: 100px;
+ 
+}
+
